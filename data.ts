@@ -11,27 +11,27 @@ export const data = [
       images: [
         {
           id: 1,
-          url: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "design1.webp",
         },
         {
           id: 2,
-          url: "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "design2.webp",
         },
         {
           id: 3,
-          url: "https://images.pexels.com/photos/3593865/pexels-photo-3593865.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "design3.webp",
         },
         {
           id: 4,
-          url: "https://images.pexels.com/photos/4065906/pexels-photo-4065906.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "design4.webp",
         },
         {
           id: 5,
-          url: "https://images.pexels.com/photos/6373305/pexels-photo-6373305.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "design5.jpeg",
         },
         {
           id: 6,
-          url: "https://images.pexels.com/photos/4197693/pexels-photo-4197693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "design6.webp",
         },
       ],
     },
@@ -46,27 +46,27 @@ export const data = [
       images: [
         {
           id: 1,
-          url: "https://images.pexels.com/photos/9965121/pexels-photo-9965121.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "devlopment1.jpeg",
         },
         {
           id: 2,
-          url: "https://images.pexels.com/photos/9716799/pexels-photo-9716799.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "devlopment2.jpeg",
         },
         {
           id: 3,
-          url: "https://images.pexels.com/photos/9395308/pexels-photo-9395308.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "devlopment3.jpeg",
         },
         {
           id: 4,
-          url: "https://images.pexels.com/photos/10067102/pexels-photo-10067102.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "devlopment4.jpeg",
         },
         {
           id: 5,
-          url: "https://images.pexels.com/photos/5262378/pexels-photo-5262378.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "devlopment5.jpeg",
         },
         {
           id: 6,
-          url: "https://images.pexels.com/photos/9796405/pexels-photo-9796405.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "devlopment6.jpeg",
         },
       ],
     },
@@ -81,27 +81,27 @@ export const data = [
       images: [
         {
           id: 1,
-          url: "https://images.pexels.com/photos/9299384/pexels-photo-9299384.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "production1.webp",
         },
         {
           id: 2,
-          url: "https://images.pexels.com/photos/9100089/pexels-photo-9100089.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "production2.jpeg",
         },
         {
           id: 3,
-          url: "https://images.pexels.com/photos/9714732/pexels-photo-9714732.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "production3.jpeg",
         },
         {
           id: 4,
-          url: "https://images.pexels.com/photos/9651391/pexels-photo-9651391.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "production4.jpeg",
         },
         {
           id: 5,
-          url: "https://images.pexels.com/photos/10008935/pexels-photo-10008935.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "production5.jpeg",
         },
         {
           id: 6,
-          url: "https://images.pexels.com/photos/7459072/pexels-photo-7459072.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          url: "production6.jpeg",
         },
       ],
     },
@@ -113,32 +113,32 @@ export const data = [
       photo: "photography.jpeg",
       longDesc:
         "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library. Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
-      images: [
-        {
-          id: 1,
-          url: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        },
-        {
-          id: 2,
-          url: "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        },
-        {
-          id: 3,
-          url: "https://images.pexels.com/photos/3593865/pexels-photo-3593865.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        },
-        {
-          id: 4,
-          url: "https://images.pexels.com/photos/4065906/pexels-photo-4065906.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        },
-        {
-          id: 5,
-          url: "https://images.pexels.com/photos/6373305/pexels-photo-6373305.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        },
-        {
-          id: 6,
-          url: "https://images.pexels.com/photos/4197693/pexels-photo-4197693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        },
-      ],
+        images: [
+          {
+            id: 1,
+            url: "production2.jpeg",
+          },
+          {
+            id: 2,
+            url: "devlopment6.jpeg",
+          },
+          {
+            id: 3,
+            url: "design4.webp",
+          },
+          {
+            id: 4,
+            url: "production5.jpeg",
+          },
+          {
+            id: 5,
+            url: "design6.jpeg",
+          },
+          {
+            id: 6,
+            url: "devlopment3.jpeg",
+          },
+        ],
     },
   ];
   
